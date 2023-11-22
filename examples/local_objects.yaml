@@ -1,0 +1,8 @@
+clip:
+  raccoon:
+    positive_labels:
+      - raccoon
+    negative_labels:
+      - dog
+      - dog cake
+      - bee
